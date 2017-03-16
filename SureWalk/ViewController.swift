@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  SureWalk
 //
-//  Created by Vaidehi Duraphe on 3/15/17.
+//  Created by Vaidehi Duraphe! on 3/15/17.
 //  Copyright © 2017 Vaidehi Duraphe. All rights reserved.
 //
 
